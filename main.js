@@ -3,7 +3,7 @@ const setLocationPeriod = (city, country) => {
     const locationPeriod = document.getElementById('time-in-current-location');
     const locationName = document.getElementById('location-name');
     locationName.textContent = `${city}, ${country}`;
-    locationPeriod.innerHTML = `I’m staying in ${city.toLowerCase()} and I'm looking for a playmate! Will it be you? <br/> Send me a ❤️¸ in my Dms and let's chat`;
+    locationPeriod.innerHTML = `I’m staying in ${city.toLowerCase()} and I’m looking for a playmate! Could it be you? <br/> Send me a 😈¸ in my Dms and let's chat`;
   };
   
   // Function to start countdown timer
