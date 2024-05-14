@@ -109,7 +109,7 @@
     display: none;
     content: '';
     position: absolute;
-    background-image: url("../images/status.svg");
+    background-image: url("../img/status.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
